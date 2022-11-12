@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-list-item {
+  list-style-type: none;
+  height: 250px;
+  width: 250px;
+  background-color: white;
+  border-radius: 8px;
+  border: none;
+  text-align: center;
+}
+
+.app-img {
+  height: 100px;
+  width: 100px;
+}
+
+.app-name {
+  color: black;
+  font-size: 14px;
+}

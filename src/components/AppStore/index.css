@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.app-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+}
+
+.responsive-con {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  color: black;
+  font-size: 14px;
+  text-align: center;
+}
+
+.input-label {
+  border: 2px solid black;
+  height: 30px;
+  width: 200px;
+  background-color: transparent;
+}
+
+.search-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.input-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.tab-list-con {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.appList-con {
+  display: flex;
+  flex-wrap: wrap;
+}
